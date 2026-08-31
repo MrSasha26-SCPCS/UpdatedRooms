@@ -1,4 +1,4 @@
-# UpdatedRooms
+# UpdatedRooms (v1.1)
 SCP: CS plugin
 
 Данный плагин улучшает некоторые комнаты, а именно:
